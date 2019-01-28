@@ -1,0 +1,22 @@
+{
+  "name": "clase1_mio",
+  "version": "1.0.0",
+  "description": "primera clase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mabel2k16/claseNode1.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Mabel Penia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabel2k16/claseNode1/issues"
+  },
+  "homepage": "https://github.com/mabel2k16/claseNode1#readme"
+}
